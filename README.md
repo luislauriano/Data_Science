@@ -20,10 +20,10 @@ Graduando em Gestão da Informação na UFPE, entusiasta em Data Science, desenv
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science e Machine Learning.
                                                                                                                                                          
-* **Como começar a visualizar dados com Python:** http://abre.ai/visualizandodados
-* **Análise de dados do Airbnb da cidade do Rio de Janeiro:** http://abre.ai/analise_airbnb_rio
-* **O que não te contaram sobre o coronavírus: Uma análise de dados do covid-19:** http://abre.ai/analise_do_coronavirus
+* **Como começar a visualizar dados com Python:** http://abre.ai/a9BM
+* **Análise de dados do Airbnb da cidade do Rio de Janeiro:** http://abre.ai/a9BJ
+* **O que não te contaram sobre o coronavírus: Uma análise de dados do covid-19:** http://abre.ai/a9BO
 * **Construindo modelo preditifo de ocorrência de diabetes:** http://abre.ai/prevendodiabetes
-* **Manipulando e tratando dados para gerar indicadores á empresa:** http://abre.ai/manipulando_tratando_dados
-* **Machine Learning para detecção do Câncer de Mama:**  http://abre.ai/deteccao_do_cancer_de_mama
+* **Manipulando e tratando dados para gerar indicadores á empresa:** http://abre.ai/a9BQ
+* **Machine Learning para detecção do Câncer de Mama:**  http://abre.ai/a9BW
 ---
