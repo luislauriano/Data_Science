@@ -20,7 +20,8 @@ Graduando em Gestão da Informação na UFPE, entusiasta em Data Science, desenv
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science e Machine Learning.
                                                                                                                                                          
-* **Como começar a visualizar dados com Python:** http://abre.ai/a9CI
+* **[Como começar a visualizar dados com Python:](http://abre.ai/a9CI)** 
+introdução de como você pode começar a visualizar dados utilizando a biblioteca matplotlib pyplot do python, de forma objetiva e prática. Plotando gráficos de barra, linha, pizza e ainda como criar gráficos interativos como o gráfico de waffle.
 * **Análise de dados do Airbnb da cidade do Rio de Janeiro:** http://abre.ai/a9CJ
 * **O que não te contaram sobre o coronavírus: Uma análise de dados do covid-19:** http://abre.ai/a9CK
 * **Construindo modelo preditifo de ocorrência de diabetes:** http://abre.ai/a9CL
