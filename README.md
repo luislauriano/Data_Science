@@ -33,4 +33,7 @@ O objetivo do projeto foi fazer o tratamento e manipulação dos dados de arquiv
 * **[Machine Learning para detecção do Câncer de Mama:](http://abre.ai/a9CN)**
 Nesse projeto de Data Science foi construido um simples modelo de Machine Learning capaz de detectar o câncer de mama. 
 
+## Artigos:
+
+Esses são alguns dos artigos que escrevi para o meu blog e linkedin, em meu blog você pode encontrar artigos mais tecnicos, enquanto no linkedin os artigos costumam ter mais insigts dos projetos, dores enfretadas ao construi-lo e um caracter mais opinativo não formal. 
 ---
