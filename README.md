@@ -12,7 +12,7 @@ Graduando em Gestão da Informação na UFPE, entusiasta em Data Science, desenv
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/luislauriano)
-* [Site pessoal](http://luisvinicius.epizy.com/)
+* [Blog pessoal](http://luisvinicius.epizy.com/)
 
 
 
