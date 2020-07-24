@@ -49,6 +49,7 @@ Todo jovem especialista em dados que tem o primeiro contato com as áreas de Bus
 * **[A manopla do Cientista de Dados](http://abre.ai/manopla_cientistadedados)**:
 Quais seriam as seis bibliotecas essenciais para todo Cientista de Dados? Nesse artigo falei um pouco sobre as seis que acredito serem essenciais e importantes, sendo elas: Pandas, Matplotlib, NumPy, SciPy, Tensorflow e Scikit-learn. Fazendo dessa stack uma alusão as seis joias do infinito da manopla do personagem Thanos.
 
-Mais artigos em[linkedin](linkedin.com/in/luislauriano) e [blog](luislauriano.co)
+
+Mais artigos em [linkedin](https://www.linkedin.com/in/luislauriano) e [blog](http://luisvinicius.epizy.com/)
 
 ---
