@@ -40,13 +40,14 @@ Essa aplicação foi construída com streamlit, framework do python destinado a 
 
 Esses são alguns dos artigos que escrevi para o meu [blog](http://luisvinicius.epizy.com/) e [linkedin](https://www.linkedin.com/in/luislauriano), em meu blog você pode encontrar artigos mais técnicos, enquanto no linkedin os artigos costumam ter mais insights dos projetos e dores enfretadas ao construí-lo com um caráter mais opinativo e informal.
 
-* **[Business Problem & Eu](http://abre.ai/businessproblem)
+* **[Business Problem & Eu](http://abre.ai/businessproblem)**
 Qual a relação que devemos ter com área de negócios ao construir uma solução de Data Science ou Machine Learning? Nesse artigo falei um pouco sobre a relação que devemos ter com o problema de negócio e o negócio em si que envolve os dados.
 
-* **[O que é, o que é? Data Science ou Business Intelligence](http://abre.ai/dsoubi)
+* **[O que é, o que é? Data Science ou Business Intelligence](http://abre.ai/dsoubi)**
 Todo jovem especialista em dados que tem o primeiro contato com as áreas de Business Intelligence e Data Science, fica na dúvida de pôr qual área se iniciar os estudos para começar a trabalhar com dados ou qual a diferença das áreas? Nesse artigo falei um pouco sobre esses e outros questionamentos que surgem, para que você possa por um ultimato e diferenciar as áreas de Business Intelligence e Data Science.
 
-* **[A manopla do Cientista de Dados](http://abre.ai/manopla_cientistadedados)
+* **[A manopla do Cientista de Dados](http://abre.ai/manopla_cientistadedados)**
+
 Quais seriam as seis bibliotecas essenciais para todo Cientista de Dados? Nesse artigo falei um pouco sobre as seis que acredito serem essenciais e importantes, sendo elas: Pandas, Matplotlib, NumPy, SciPy, Tensorflow e Scikit-learn. Fazendo dessa stack uma alusão as seis joias do infinito da manopla do personagem Thanos.
 
 Mais artigos em [linkedin](linkedin.com/in/luislauriano) e [blog](luislauriano.co).
