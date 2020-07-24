@@ -35,5 +35,7 @@ Nesse projeto de Data Science foi construido um simples modelo de Machine Learni
 
 ## Artigos:
 
-Esses são alguns dos artigos que escrevi para o meu blog e linkedin, em meu blog você pode encontrar artigos mais tecnicos, enquanto no linkedin os artigos costumam ter mais insigts dos projetos, dores enfretadas ao construi-lo e um caracter mais opinativo não formal. 
+Esses são alguns dos artigos que escrevi para o meu [blog](http://luisvinicius.epizy.com/) e [linkedin](https://www.linkedin.com/in/luislauriano), em meu blog você pode encontrar artigos mais técnicos, enquanto no linkedin os artigos costumam ter mais insights dos projetos e dores enfretadas ao construí-lo com um caráter mais opinativo e informal.
+
+
 ---
