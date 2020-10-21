@@ -36,6 +36,10 @@ Nesse projeto de Data Science foi construido um simples modelo de Machine Learni
 *  **[Análise Exploratória de Dados com Streamlit:](https://gentle-bayou-96352.herokuapp.com/)**
 Essa aplicação foi construída com streamlit, framework do python destinado a criação de aplicação/dashboard. A aplicação faz uma análise exploratória inicial dos dados através de métodos estatísticos e visualização de dados, também aproveitei para inserir algumas explicações estatísticas na aplicação.
 
+* **[Spotify & Python & Data Science – Análise de Dados dos Álbuns do artista NexoAnexo](http://abre.ai/analise_nexoanexo)** 
+O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spotify do artista NexoAnexo, passando pelas principais etapas de uma análise de dados. Sendo, coleta dos dados, pré-processamento, exploração e visualização dos dados. Por fim, após a análise ter sido finalizada, foi construida uma aplicação/dashboard com Python e inserindo a aplicação disponivel na web através do heroku.  Um outro objetivo é que a partir das conclusões feitas da análise dos dados das músicas dos álbuns, fosse identificado fatores que ajudam ou contribuem um álbum ou música a ter mais sucesso e como isso pode ser usado em futuros lançamentos.
+**[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
+
 ## Artigos:
 
 Esses são alguns dos artigos que escrevi para o meu [blog](http://luisvinicius.epizy.com/) e [linkedin](https://www.linkedin.com/in/luislauriano), em meu blog você pode encontrar artigos mais técnicos, enquanto no linkedin os artigos costumam ter mais insights dos projetos e dores enfretadas ao construí-lo com um caráter mais opinativo e informal.
@@ -48,6 +52,7 @@ Todo jovem especialista em dados que tem o primeiro contato com as áreas de Bus
 
 * **[A manopla do Cientista de Dados](http://abre.ai/manopla_cientistadedados)**:
 Quais seriam as seis bibliotecas essenciais para todo Cientista de Dados? Nesse artigo falei um pouco sobre as seis que acredito serem essenciais e importantes, sendo elas: Pandas, Matplotlib, NumPy, SciPy, Tensorflow e Scikit-learn. Fazendo dessa stack uma alusão as seis joias do infinito da manopla do personagem Thanos.
+
 
 
 Mais artigos em [linkedin](https://www.linkedin.com/in/luislauriano) e [blog]()
