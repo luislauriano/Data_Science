@@ -20,8 +20,6 @@ Graduando em Gestão da Informação na UFPE, entusiasta em Data Science, desenv
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science e Machine Learning.
                                                                                                                                                          
-* **[Como começar a visualizar dados com Python:](http://abre.ai/a9CI)** 
-Uma introdução de como começar a visualizar dados utilizando a linguagem de programação Python e sua biblioteca Matplotlib, de forma objetiva e prática. Plotando gráficos de barra, linha, pizza e ainda como criar gráficos intuitivos como o gráfico de waffle.
 * **[Análise de dados do Airbnb da cidade do Rio de Janeiro:](http://abre.ai/a9CJ)**
 A cidade do Recife, é uma das cidades que mais atraem turistas durante o período de carnaval no Brasil. Porém, a cidade do Rio de Janeiro no ano de 2020 esteve entre as três cidades mais procuradas para curtir o período carnavalesco, sendo 2 milhões de turistas esperados para curtir a maratona carnavalesca, logo a um crescimento na rede de hotelaria. Além disso, quando vamos viajar, sempre pensamos qual seria o melhor hotel, a melhor localização e o custo beneficio. Pensando nisso, foi feita uma análise exploratória dos dados de uma das maiores empresas hoteleira da atualidade, o Airbnb, utilizando o dataset disponibilizado pela própria empresa.
 * **[O que não te contaram sobre o coronavírus: Uma análise de dados do covid-19:](http://abre.ai/a9CK)**
