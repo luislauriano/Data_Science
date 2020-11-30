@@ -34,7 +34,7 @@ Nesse projeto de Data Science foi construido um simples modelo de Machine Learni
 *  **[Análise Exploratória de Dados com Streamlit:](https://gentle-bayou-96352.herokuapp.com/)**
 Essa aplicação foi construída com streamlit, framework do python destinado a criação de aplicação/dashboard. A aplicação faz uma análise exploratória inicial dos dados através de métodos estatísticos e visualização de dados, também aproveitei para inserir algumas explicações estatísticas na aplicação.
 
-* **[Spotify & Python & Data Science – Análise de Dados dos Álbuns do artista NexoAnexo:](http://abre.ai/analise_nexoanexo)**
+* **[Spotify & Python & Data Science – Análise de Dados dos Álbuns do artista NexoAnexo:](https://github.com/luislauriano/Data_Science/blob/master/Analise_de_dados_dos_Albuns_NexoAnexo.ipynb)**
 O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spotify do artista NexoAnexo, passando pelas principais etapas de uma análise de dados. Sendo, coleta dos dados, pré-processamento, exploração e visualização dos dados. Por fim, após a análise ter sido finalizada, foi construida uma aplicação/dashboard com Python e inserindo a aplicação disponivel na web através do heroku.  Um outro objetivo é que a partir das conclusões feitas da análise dos dados das músicas dos álbuns, fosse identificado fatores que ajudam ou contribuem um álbum ou música a ter mais sucesso e como isso pode ser usado em futuros lançamentos.
 
    **[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
