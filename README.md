@@ -54,6 +54,6 @@ Quais seriam as seis bibliotecas essenciais para todo Cientista de Dados? Nesse 
 
 
 
-Mais artigos em [linkedin](https://www.linkedin.com/in/luislauriano) e [blog]()
+Mais artigos em [linkedin](https://www.linkedin.com/in/luislauriano) e [blog](luisvinicius.me)
 
 ---
