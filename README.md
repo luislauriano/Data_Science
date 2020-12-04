@@ -38,6 +38,7 @@ Essa aplicação foi construída com streamlit, framework do python destinado a 
 O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spotify do artista NexoAnexo, passando pelas principais etapas de uma análise de dados. Sendo, coleta dos dados, pré-processamento, exploração e visualização dos dados. Por fim, após a análise ter sido finalizada, foi construida uma aplicação/dashboard com Python e inserindo a aplicação disponivel na web através do heroku.  Um outro objetivo é que a partir das conclusões feitas da análise dos dados das músicas dos álbuns, fosse identificado fatores que ajudam ou contribuem um álbum ou música a ter mais sucesso e como isso pode ser usado em futuros lançamentos.
 
    **[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
+   Após a divulgação do projeto e da aplicação desenvolvida com Streamlit no Linkedin, o Product Marketing Ted Ricks do Streamlit encontrou a minha aplicação e com suas palavras disse "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community forum Streamlit", Logo, a aplicação foi incluida no [resumo semanal 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640) da comunidade do Streamlit, no tópico de aplicativos da semana. 
 
 ## Artigos:
 
