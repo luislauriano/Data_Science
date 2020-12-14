@@ -46,7 +46,7 @@ O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spoti
 
 ## Palestras:
 
-Essas minhas partipações em eventos ou encontros de tecnologia, palestrando sobre Ciência de Dados. 
+Essas são minhas partipações em eventos ou encontros de tecnologia, palestrando sobre Ciência de Dados. 
 
 * **[O que acontece se juntar Spotify & Python & Data Science - Python Brasil 2020](http://luisvinicius.me/como_coletar_dados_do_spo_1.html)**:
 Na palestra foi apresentada a API do Spotify e como ela pode ser útil para nós desenvolvedores e principalmente profissionais da área de dados. A partir disso, foi visto como se pode coletar e analisar os dados do Spotify, apenas utilizando a linguagem de programação Python.
