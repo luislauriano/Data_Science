@@ -1,0 +1,34 @@
+album,album_type,track_number,id_track,name,popularity,explicit,duration_ms,release_date,artists
+Trap from Future,album,1,6Mx214YlNnbj7un9PrvmGi,Vem No Tum Tum,17,True,216917,2020-03-13,['NexoAnexo']
+Trap from Future,album,2,1xOs8YJkkKm5HhRiP1ha4g,Drip Know Me,3,True,154646,2020-03-13,"['NexoAnexo', 'Drippy Kid Jay']"
+Trap from Future,album,3,4s4G0Z6mSkrauIvBXRlVHk,Match,4,True,180716,2020-03-13,['NexoAnexo']
+Trap from Future,album,4,5C1iQCV3xuc0oHQpe7fhhQ,Trap & Brega,6,True,164468,2020-03-13,['NexoAnexo']
+Trap from Future,album,5,3H2TfCpxaSfEh5nVbcDzrp,Marca Sem Roupa,6,True,148364,2020-03-13,"['NexoAnexo', 'Victor KR']"
+Trap from Future,album,6,0obGglfLwWBXRa8chTF2wW,Wow!,3,True,145675,2020-03-13,['NexoAnexo']
+Trap from Future,album,7,1eFva22COwaEByjSnoOSjx,Não Posso Morrer Novo,3,False,150116,2020-03-13,['NexoAnexo']
+Trap from Future,album,8,3yFbmcmxdQ9ZW5KL4BWNTM,Fuck Cópias,2,True,140880,2020-03-13,"['NexoAnexo', 'Vitorm']"
+Trap from Future,album,9,5bx1duyHkWh1pT9hfMNz97,Passa Nada,3,True,135745,2020-03-13,['NexoAnexo']
+Trap from Future,album,10,27wJhLhJ5DitqVNF0aa3Y0,Novo Rock,1,True,130971,2020-03-13,['NexoAnexo']
+Trap from Future,album,11,44Q3DVLkHklbzBSw4lbgyw,Como Tem Que Ser,3,True,169166,2020-03-13,"['NexoAnexo', 'Rudah', 'Wavee']"
+Trap from Future,album,12,1Azgt4uiFUO8oKAu428DPv,Grife,3,True,140925,2020-03-13,"['NexoAnexo', 'Vhulto']"
+Trap from Future,album,13,395I6lTZiL99xnHniKZ5PA,Fogo No Incenso,5,True,260158,2020-03-13,"['NexoAnexo', 'Léo da Bodega']"
+Trap from Future,album,14,5aTZgS07v6N3ad4kykhDmU,Zombieland,1,True,190357,2020-03-13,['NexoAnexo']
+Trap from Future,album,15,6995EcL1GtkmeDXf69pzdJ,Baila Comigo?,2,True,192530,2020-03-13,"['NexoAnexo', 'Prodbygrillo']"
+Trap de Cria Mixtape,album,1,1T1oT4ia9vgoUIHczIPhsk,Trap de Cria,9,True,158634,2019-07-29,"['NexoAnexo', 'TheKickBoy']"
+Trap de Cria Mixtape,album,2,1cwKuW0dBzneRLyKerSbhd,A Lista das Bandidas,2,True,192697,2019-07-29,['NexoAnexo']
+Trap de Cria Mixtape,album,3,6vkMeNQdKrYDGEF3JU2sRZ,A3,1,True,140732,2019-07-29,['NexoAnexo']
+Trap de Cria Mixtape,album,4,6Eo9qteRJP9Yb4AP8z225m,E Ai Fake,1,True,167852,2019-07-29,['NexoAnexo']
+Trap de Cria Mixtape,album,5,0vHXBOz8viB0SmQRp8Pvcs,Video Call,1,True,192468,2019-07-29,"['NexoAnexo', 'Joma', 'GG']"
+Trap de Cria Mixtape,album,6,1odUH2Dq97dJiqEqREdcZx,Aliviando o Stress,1,True,144564,2019-07-29,"['NexoAnexo', 'Young Torvi']"
+Trap de Cria Mixtape,album,7,381YrLPNZzDeWk24JRGrvX,Hino dos Irmãos,1,True,126168,2019-07-29,['NexoAnexo']
+Trap de Cria Mixtape,album,8,0RcjaQmdPEkwl2rSCX5saG,Bebê da Cara de Mal,1,True,174180,2019-07-29,"['NexoAnexo', 'Jovem Zine']"
+Trap de Cria Mixtape,album,9,6qUFQJgAhxB5otxDgYUQdH,Isso Que É Foda,4,True,135086,2019-07-29,['NexoAnexo']
+Trap de Cria Mixtape,album,10,3SK7kymFPiQ4pkr3HX3jIx,Pjl,0,True,211323,2019-07-29,['NexoAnexo']
+Real Plug Mixtape,album,1,6sCyj7quVzcGbs9kAxrrzV,The Train,0,True,169865,2018-05-15,"['NexoAnexo', 'GG', 'Young Zine']"
+Real Plug Mixtape,album,2,1rJOxl2UFAVnbhCWfKZT2b,Fica Bem,0,True,130134,2018-05-15,"['NexoAnexo', 'Guimael']"
+Real Plug Mixtape,album,3,0o8xKwkHMiTqboFWj7MdsF,Gospel,0,True,122278,2018-05-15,"['NexoAnexo', 'TheKickBoy']"
+Real Plug Mixtape,album,4,6JM9oQxdsP9ZBr7MD0bjzf,Nxanx,0,True,167355,2018-05-15,"['NexoAnexo', 'Guimael']"
+Real Plug Mixtape,album,5,2JlPpGTj9MuKjLRD27DXwH,Tudo,0,True,161403,2018-05-15,"['NexoAnexo', 'TheKickBoy']"
+Real Plug Mixtape,album,6,1dHrNfJgczkxDCOBtiGJkv,A Lei,0,True,134274,2018-05-15,"['NexoAnexo', 'LC']"
+Real Plug Mixtape,album,7,4rDhvolZebPhxzs8wPq802,Dreams Cup,0,True,230822,2018-05-15,"['NexoAnexo', '$ketchBoyBeat$']"
+Real Plug Mixtape,album,8,21hFSC02UuBc4NfHv10J8O,2020,4,True,154298,2018-05-15,['NexoAnexo']
