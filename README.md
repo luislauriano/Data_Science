@@ -7,7 +7,9 @@
 # Luis Vinicius
 <sub>*Desenvolvedor em Python e entusiasta em Data Science*</sub>
 
-Graduando em Gestão da Informação na UFPE, entusiasta em Data Science, desenvolvedor em Python, apaixonado por Tecnologia, Inovação e Desenvolvimento de projetos.
+Hello World, para quem não me conhece, me chamo Luis Vinicius, também conhecido como Tito e tenho 19 anos. Apesar de sempre admirar a área de tecnologia, meu interesse pela área se intensificou em 2016 quando almejei trabalhar na Riot Games, empresa criadora do League of Legends, após ver um vídeo no YouTube sobre a empresa e seus funcionários. No ano de 2018 conclui o ensino médio e já tinha decidido que realmente queria seguir na área da tecnologia, então em 2019 fui aprovado no vestibular para o curso de Gestão da Informação da Universidade Federal de Pernambuco onde atualmente estou graduando.
+
+Foi no mesmo ano de 2019 que me despertou o interesse na área da Ciência de dados, onde desde junho do mesmo ano venho trilhando os caminhos para me tornar um bom profissional na área e ingressar no mercado de trabalho. Atualmente sou graduando em Gestão da Informação na UFPE, entusiasta em Ciência de Dados (um quase Cientista de Dados) e um desenvolvedor apaixonado por Python.
 
 **Links:**
 
