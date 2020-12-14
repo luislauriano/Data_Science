@@ -6,8 +6,7 @@
 
 # Luis Vinicius
 
-
-[Repositório de Data Science](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) | [Blog pessoal](http://luisvinicius.me)
+[Linkedin](https://www.linkedin.com/in/luislauriano) | [Blog pessoal](http://luisvinicius.me)
 
 Hello World, para quem não me conhece, me chamo Luis Vinicius, também conhecido como Tito e tenho 19 anos. Apesar de sempre admirar a área de tecnologia, meu interesse pela área se intensificou em 2016 quando almejei trabalhar na Riot Games, empresa criadora do League of Legends, após ver um vídeo no YouTube sobre a empresa e seus funcionários. No ano de 2018 conclui o ensino médio e já tinha decidido que realmente queria seguir na área da tecnologia, então em 2019 fui aprovado no vestibular para o curso de Gestão da Informação da Universidade Federal de Pernambuco onde atualmente estou graduando.
 
