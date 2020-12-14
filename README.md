@@ -45,16 +45,21 @@ O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spoti
 
 ## Artigos:
 
-Esses são alguns dos artigos que escrevi para o meu [blog](http://luisvinicius.epizy.com/) e [linkedin](https://www.linkedin.com/in/luislauriano), em meu blog você pode encontrar artigos mais técnicos, enquanto no linkedin os artigos costumam ter mais insights dos projetos e dores enfretadas ao construí-lo com um caráter mais opinativo e informal.
+Esses são alguns dos artigos que escrevi para o meu [blog](http://luisvinicius.me/) e [linkedin](https://www.linkedin.com/in/luislauriano), em meu blog você pode encontrar artigos mais técnicos, enquanto no linkedin os artigos costumam ter mais insights dos projetos e dores enfretadas ao construí-lo com um caráter mais opinativo e informal.
 
-* **[Business Problem & Eu](http://abre.ai/businessproblem)**:
-Qual a relação que devemos ter com área de negócios ao construir uma solução de Data Science ou Machine Learning? Nesse artigo falei um pouco sobre a relação que devemos ter com o problema de negócio e o negócio em si que envolve os dados.
+* **[Spotify & Python & Data Science - Como Coletar os Dados do Spotify com Python](http://luisvinicius.me/posts/como_coletar_dados_do_spo_1.html)**:
+A coleta de dados é a primeira etapa de todo projeto de Data Science, caso seja optado por não coletar um conjunto de dados já pronto, devemos procurar fontes de dados que possam ser uteis para construir nossa base de dados e das fontes extrair os dados.
+
+
+* **[A manopla do Cientista de Dados](http://luisvinicius.me/posts/manopla1.html)**:
+Um cientista e dados também pode ter a sua a sua manopla, levando em consideração o uso da linguagem Python, a mais popular para Data Science nos dias atuais. Com ela em mãos e o seu conhecimento na área de negócios, matemática, estatística e ademais.
+
+* **[A manopla 2.0 do Cientista de Dados](http://luisvinicius.me/posts/manopla2.html)**:
+Um cientista de dados também pode ter a sua a sua manopla do infinito 2.0, entretanto, diferente da primeira manopla que foi considerado apenas o uso da linguagem Python e suas bibliotecas para sua construção, a manopla 2.0 do cientista de dados é algo que vai além das joias, ou melhor, bibliotecas do Python para trabalhar com Data Science.
+
 
 * **[O que é, o que é? Data Science ou Business Intelligence](http://abre.ai/dsoubi)**:
 Todo jovem especialista em dados que tem o primeiro contato com as áreas de Business Intelligence e Data Science, fica na dúvida de pôr qual área se iniciar os estudos para começar a trabalhar com dados ou qual a diferença das áreas? Nesse artigo falei um pouco sobre esses e outros questionamentos que surgem, para que você possa por um ultimato e diferenciar as áreas de Business Intelligence e Data Science.
-
-* **[A manopla do Cientista de Dados](http://abre.ai/manopla_cientistadedados)**:
-Quais seriam as seis bibliotecas essenciais para todo Cientista de Dados? Nesse artigo falei um pouco sobre as seis que acredito serem essenciais e importantes, sendo elas: Pandas, Matplotlib, NumPy, SciPy, Tensorflow e Scikit-learn. Fazendo dessa stack uma alusão as seis joias do infinito da manopla do personagem Thanos.
 
 
 
