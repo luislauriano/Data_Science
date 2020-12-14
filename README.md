@@ -1,22 +1,21 @@
+### Hello World! Me chamo Luis Vinicius, também conhecido como Tito! Sinta-se em casa e encontre aqui conteúdos de Data Science e Python.👋🏾
+
 [![author](https://img.shields.io/badge/author-LuisVinicius-red.svg)](https://www.linkedin.com/in/luislauriano/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/luislauriano/data_science)
 
 <p align="center">
-  <img src="Img/banner.png" >
+  <img src="https://i.imgur.com/8gqbbxf.png" width = 100%>
 </p>
 
 # Luis Vinicius
-<sub>*Ando de mãos dadas com Programação e Dados*</sub>
+
+
+[Repositório de Data Science](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) | [Blog pessoal](http://luisvinicius.me)
 
 Hello World, para quem não me conhece, me chamo Luis Vinicius, também conhecido como Tito e tenho 19 anos. Apesar de sempre admirar a área de tecnologia, meu interesse pela área se intensificou em 2016 quando almejei trabalhar na Riot Games, empresa criadora do League of Legends, após ver um vídeo no YouTube sobre a empresa e seus funcionários. No ano de 2018 conclui o ensino médio e já tinha decidido que realmente queria seguir na área da tecnologia, então em 2019 fui aprovado no vestibular para o curso de Gestão da Informação da Universidade Federal de Pernambuco onde atualmente estou graduando.
 
 Foi no mesmo ano de 2019 que me despertou o interesse na área da Ciência de dados, onde desde junho do mesmo ano venho trilhando os caminhos para me tornar um bom profissional na área e ingressar no mercado de trabalho. Atualmente sou graduando em Gestão da Informação na UFPE, entusiasta em Ciência de Dados (um quase Cientista de Dados) e um desenvolvedor apaixonado por Python.
 
-**Links:**
-
-* [LinkedIn](https://www.linkedin.com/in/luislauriano)
-* [Blog pessoal](http://luisvinicius.me)
-
-
+---
 
 ## Projetos:
 
@@ -42,7 +41,8 @@ O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spoti
    **[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
    
    Após a divulgação do projeto e da aplicação desenvolvida com Streamlit no Linkedin, o Product Marketing Ted Ricks do Streamlit encontrou a minha aplicação e com suas palavras disse "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community forum Streamlit", Logo, a aplicação foi incluida no **[resumo semanal 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640)** da comunidade do Streamlit, no tópico de aplicativos da semana. 
-   
+
+---
 
 ## Palestras:
 
@@ -58,7 +58,7 @@ A palestra apresentada na semana de tecnologia da faculdade Uninassau, teve como
 * **[Boas Práticas de Visualização de Dados e como Aplicar com Python - Coronga Meet - Comunidade DataPeste](https://drive.google.com/file/d/1VQjUsxmmShvrfBjMwB8OU93ZAoKMsCCo/view?usp=sharing)**:
 A palestra teve como objetivo falar sobre como manter boas prátricas ao construir visualizações de dados, mostrar que visualização de dados não é tao simples quanto parece e que existem problemas que nem sempre são vistos ao interpretar um gráfico, problemas que voltaram a surgir devido a necessidade que a mídia teve de criar gráficos por conta do novo coronavírus.
 
-
+---
 
 ## Artigos:
 
@@ -83,3 +83,5 @@ Todo jovem especialista em dados que tem o primeiro contato com as áreas de Bus
 Mais artigos em [linkedin](https://www.linkedin.com/in/luislauriano) e [blog](http://luisvinicius.me/)
 
 ---
+
+> Made with 💖 by Luis Vinicius
