@@ -42,6 +42,23 @@ O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spoti
    **[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
    
    Após a divulgação do projeto e da aplicação desenvolvida com Streamlit no Linkedin, o Product Marketing Ted Ricks do Streamlit encontrou a minha aplicação e com suas palavras disse "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community forum Streamlit", Logo, a aplicação foi incluida no **[resumo semanal 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640)** da comunidade do Streamlit, no tópico de aplicativos da semana. 
+   
+
+## Palestras:
+
+Essas minhas partipações em eventos ou encontros de tecnologia, palestrando sobre Ciência de Dados. 
+
+* **[O que acontece se juntar Spotify & Python & Data Science - Python Brasil 2020](http://luisvinicius.me/como_coletar_dados_do_spo_1.html)**:
+Na palestra foi apresentada a API do Spotify e como ela pode ser útil para nós desenvolvedores e principalmente profissionais da área de dados. A partir disso, foi visto como se pode coletar e analisar os dados do Spotify, apenas utilizando a linguagem de programação Python.
+
+* **[Ciência de Dados e como Manter Boas Práticas ao construir Visualizações de Dados - Semana de Tecnologia - Faculdade Uninassau](https://drive.google.com/file/d/1EkEcB4WO4ggZTJzeFr817qpnvRRwOe5D/view?usp=sharing)**:
+A palestra apresentada na semana de tecnologia da faculdade Uninassau, teve como objetivo introduzir os alunos nesse mundo da Ciência de Dados. Sendo falado sobre a ciência de dados nos dias atuais, o fato de ser uma área interdisciplinar e não estar ligada apenas a área de tecnologia, como os alunos poderiam dar os seus primeiros passos para conseguir entrar no mercado da ciência de dados e como se deve manter boas práticas ao construir visualizações de dados.
+
+
+* **[Boas Práticas de Visualização de Dados e como Aplicar com Python - Coronga Meet - Comunidade DataPeste](https://drive.google.com/file/d/1VQjUsxmmShvrfBjMwB8OU93ZAoKMsCCo/view?usp=sharing)**:
+A palestra teve como objetivo falar sobre como manter boas prátricas ao construir visualizações de dados, mostrar que visualização de dados não é tao simples quanto parece e que existem problemas que nem sempre são vistos ao interpretar um gráfico, problemas que voltaram a surgir devido a necessidade que a mídia teve de criar gráficos por conta do novo coronavírus.
+
+
 
 ## Artigos:
 
