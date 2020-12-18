@@ -13,9 +13,10 @@ NexoAnexo além de ser um grande amigo é um artista do Recife e produtor pernam
 
 Por fim, após a análise ter sido finalizada, construí uma aplicação/dashboard com o framework Streamlit do Python para o projeto e finalizei inserindo a aplicação disponivel na web através do heroku.  
 
-Após a divulgação do meu projeto "Análise de dados dos álbuns do artista NexoAnexo" e da aplicação desenvolvida com Streamlit aqui no Linkedin, o Product Marketing Ted Ricks do Streamlit encontrou a minha publicação, aplicação e me enviou uma mensagem informando que a minha aplicação tinha sido incluída no **[Resumo Semanal](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640)** da semana 29/11/2020 da comunidade do Streamlit, no tópico de aplicativos da semana.
+Após a divulgação da aplicação desenvolvida com Streamlit no Linkedin, o Product Marketing Ted Ricks do Streamlit encontrou a minha publicação, aplicação e me enviou uma mensagem informando que a minha aplicação tinha sido incluída no **[Resumo Semanal](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640)** da semana 29/11/2020 da comunidade do Streamlit, no tópico de aplicativos da semana.
 
 **[Repositório/Código fonde da Aplicação](https://github.com/luislauriano/Aplicacao_NexoAnexo)** 
+
 **[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
 
 <p align="center">
