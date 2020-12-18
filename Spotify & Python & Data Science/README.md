@@ -8,12 +8,12 @@ Nesse projeto busquei unir esses três campos coletando os dados dos álbuns do 
 NexoAnexo além de ser um grande amigo é um artista do Recife e produtor pernambucano, difusor da trap Music no Brasil. Aproveito para convidar todos vocês a conhecer o trabalho dele na música.
 
 <p align="center">
-  <img src="https://i.imgur.com/hNFqKeJ.jpg" width = 100%>
+  <img src="https://i.imgur.com/hNFqKeJ.jpg" width = 50%>
 </p>
 
-Por fim, após a análise ter sido finalizada, construí uma aplicação/dashboard com o framework Streamlit do Python para o projeto e inserindo a aplicação disponivel na web através do heroku.  
-Após a divulgação da aplicação desenvolvida com Streamlit no Linkedin, o Product Marketing Ted Ricks do Streamlit encontrou a minha aplicação e com suas palavras disse "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community forum Streamlit", Logo, a aplicação foi incluida no **[resumo semanal 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640)** da comunidade do Streamlit, no tópico de aplicativos da semana. 
+Por fim, após a análise ter sido finalizada, construí uma aplicação/dashboard com o framework Streamlit do Python para o projeto e finalizei inserindo a aplicação disponivel na web através do heroku.  
 
+Após a divulgação do meu projeto "Análise de dados dos álbuns do artista NexoAnexo" e da aplicação desenvolvida com Streamlit aqui no Linkedin, o Product Marketing Ted Ricks do Streamlit encontrou a minha publicação, aplicação e me enviou uma mensagem informando que a minha aplicação tinha sido incluída no **[Resumo Semanal](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640)** da semana 29/11/2020 da comunidade do Streamlit, no tópico de aplicativos da semana.
 
 **[Repositório/Código fonde da Aplicação](https://github.com/luislauriano/Aplicacao_NexoAnexo)** 
 **[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
