@@ -12,5 +12,5 @@ O objetivo desse curto projeto é através do conjunto de dados Instituto Nacion
 O conjunto de dados formado especialmente por mulheres com pelo menos 21 anos de idade, contém diversas variáveis de previsão médica e uma variável de destino, a resultado. As variáveis médicas preditoras ou dados de entrada, incluem o número de gestações que a paciente teve, seu IMC, nível de insulina, idade e assim por diante.
 
 <p align="center">
-  <img src="https://i.imgur.com/lTeiRgh.jpg" width = 100%>
+  <img src="https://i.imgur.com/NAHbdSo.jpg" width = 100%>
 </p>
