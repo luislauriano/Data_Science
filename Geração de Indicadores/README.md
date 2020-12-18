@@ -3,7 +3,7 @@
 Esse projeto foi construído com o objetivo de fazer o tratamento e manipulação dos dados de arquivos em XLSX e CSV da empresa Bemol, para gerar um único conjunto de dados em xlsx, que irá servir como relatório e indicador para a empresa.
 
 <p align="center">
-  <img src="https://i.imgur.com/5HH7ZAA.png" width = 100%>
+  <img src="https://i.imgur.com/QY24vFF.png" width = 100%>
 </p>
 
 Através da manipulação dos dados, preparar e tratar os dados dos conjunto de dados de vendas e detalhamento da loja Bemol. Para gerar uma unica base de dados, que irá servir como relatório, indicador.
