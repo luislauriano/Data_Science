@@ -8,7 +8,7 @@ Nesse projeto busquei unir esses três campos coletando os dados dos álbuns do 
 NexoAnexo além de ser um grande amigo é um artista do Recife e produtor pernambucano, difusor da trap Music no Brasil. Aproveito para convidar todos vocês a conhecer o trabalho dele na música.
 
 <p align="center">
-  [Imgur](https://i.imgur.com/NSU6DIh.jpg)
+   <img src="https://i.imgur.com/NSU6DIh.jpg" width = 100%>
 </p>
 
 ---
