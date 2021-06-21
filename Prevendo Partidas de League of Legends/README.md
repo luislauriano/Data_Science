@@ -2,10 +2,11 @@
 
 # League of Legends & Data Science - Prevendo o resultado de partidas
 
-O que acontece se juntar Spotify & Python & Data Science?
-Nesse projeto busquei unir esses três campos coletando os dados dos álbuns do Spotify do artista NexoAnexo com Python, através da biblioteca SpotiPy. Realizando processos de uma análise de dados, como Pré-processamento, Exploração e Visualização de dados. 
+O que acontece se juntar League of Legends & Data Science?
 
-NexoAnexo além de ser um grande amigo é um artista do Recife e produtor pernambucano, difusor da trap Music no Brasil. Aproveito para convidar todos vocês a conhecer o trabalho dele na música.
+Bom, esse é o meu mais novo projeto de Machine Learning, definido como um projeto de ponta a ponta, indo desde a coleta dos dados de partidas até a construção de um modelo de machine learning, para prever as chances do time que está jogando pelo lado azul do mapa vencer. Realizando etapas como: Pré-processamento e análise dos dados, redução de dimensionalidade e seleção de variáveis, e concluindo com a construção tanto de um modelo com XGBClassifier, como a construção de um modelo de Regressão Logística a partir dos resultados obtidos do AutoML com Pycaret. 
+
+Projeto: https://bit.ly/2SjD97W
 
 <p align="center">
    <img src="https://i.imgur.com/NSU6DIh.jpg" width = 100%>
