@@ -6,43 +6,47 @@
 
 # Luis Vinicius
 
-[Linkedin](https://www.linkedin.com/in/luislauriano) | [Blog pessoal](http://luisvinicius.me)
+[Linkedin](https://www.linkedin.com/in/luislauriano) 
 
-## Projetos:
 
-Aqui você encontra os notebooks dos meus projetos na área de Data Science e Machine Learning.
+## Projects:
 
-* **[League of Legends & Data Science – Prevendo o resultado de partidas:](https://github.com/luislauriano/Data_Science/tree/master/Prevendo%20Partidas%20de%20League%20of%20Legends)**
-Este projeto de Machine Learning, definido como um projeto de ponta a ponta, teve o objetivo de ir desde a coleta dos dados de partidas até a construção de um modelo de machine learning, para prever as chances do time que está jogando pelo lado azul do mapa vencer. Realizando etapas como: Pré-processamento e análise dos dados, redução de dimensionalidade e seleção de variáveis, e concluindo com a construção tanto de um modelo com XGBClassifier, como a construção de um modelo de Regressão Logística a partir dos resultados obtidos do AutoML com Pycaret.
+Here you can find the notebooks of my projects in the area of Data Science and Machine Learning.
 
-* **[Spotify & Python & Data Science – Análise de Dados dos Álbuns do artista NexoAnexo:](https://github.com/luislauriano/Data_Science/tree/master/Spotify%20%26%20Python%20%26%20Data%20Science)**
-O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spotify do artista NexoAnexo, passando pelas principais etapas de uma análise de dados. Sendo, coleta dos dados, pré-processamento, exploração e visualização dos dados. Por fim, após a análise ter sido finalizada, foi construida uma aplicação/dashboard com Python e inserindo a aplicação disponivel na web através do heroku.  Um outro objetivo é que a partir das conclusões feitas da análise dos dados das músicas dos álbuns, fosse identificado fatores que ajudam ou contribuem um álbum ou música a ter mais sucesso e como isso pode ser usado em futuros lançamentos.
+* **[League of Legends and Data Science – Predicting match results:](https://github.com/luislauriano/Data_Science/tree/master/Prevendo%20Partidas%20de%20League%20of%20Legends)**
+This Machine Learning project, defined as an end-to-end project, aimed to go from collecting match data to building a machine learning model, to predict the chances of the team that is playing on the blue side. on the side of the map win. Performing steps such as: Pre-processing and data analysis, dimensionality reduction and selection of variables, and construction of both a model completed with XGBClassifier, and construction of a logistic regression model from the results obtained from AutoML with Pycaret.
 
-   **[Repositório/Código fonte da Aplicação](https://github.com/luislauriano/Aplicacao_NexoAnexo)**
+* **[Spotify & Python and Data Science – Data Analysis of Artist NexoAnexo Albums:](https://github.com/luislauriano/Data_Science/tree/master/Spotify%20%26%20Python%20%26%20Data%20Science)**
+The objective of the project was to perform a data analysis of the Spotify albums by the artist NexoAnexo, going through the main steps of a data analysis. Being, data collection, pre-processing, exploration and visualization of the data. Finally, after the analysis was completed, an application/dashboard was built with Python and the application was made available on the web through heroku. Another objective is that from the conclusions made from the analysis of the data of the songs of the albums, factors that help or contribute to an album or song to be more successful and how this can be used in future releases could be identified.
+
+   **[Repository/Application source code](https://github.com/luislauriano/Aplicacao_NexoAnexo)**
    
-   **[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
-  
+   **[Project Application/Dashboard](http://analise-nexoanexo.herokuapp.com/)** 
    
-   Após a divulgação do projeto e da aplicação desenvolvida com Streamlit no Linkedin, o Product Marketing Ted Ricks do Streamlit encontrou a minha aplicação e com suas palavras disse "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community forum Streamlit", Logo, a aplicação foi incluida no **[resumo semanal 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640)** da comunidade do Streamlit, no tópico de aplicativos da semana. 
+   After publicizing the project and the application developed with Streamlit on Linkedin, Product Marketing Ted Ricks from Streamlit found my
+   application and in his words said "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community
+   forum Streamlit", Therefore, the application was included in the **[weekly summary 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph
+   components-streambackmachines-text-generation-tutorials-and-more/7640)** from the Streamlit community in the apps topic of the week. 
 
                                                                                                                                                          
-* **[O que não te contaram sobre o coronavírus: Uma análise de dados do covid-19:](https://github.com/luislauriano/Data_Science/tree/master/Covid-19)**
-Durante o mês de março, na China o número de casos recuperados já eram maiores do que o número de casos confirmados, entretanto, países como Estados Unidos e Coreia do Sul, ainda tinham seus número de casos de mortes maiores do que o de casos recuperados e para países como Canadá e Brasil, ainda era tudo muito novo. Nessa breve análise dos dados do covid-19 no período de 22/01 ao 09/03, pude identificar e alertar o número de casos crescentes de mortes em países como Estados Unidos, antes mesmo do pico alto do vírus.
+* **[What they didn't tell you about the coronavirus: An analysis of covid-19 data:](https://github.com/luislauriano/Data_Science/tree/master/Covid-19)**
+During the month of March, in China, the number of recovered cases were already greater than the number of confirmed cases, however, countries such as the United States and South Korea still had their number of cases of deaths greater than the number of recovered cases. and for countries like Canada and Brazil, it was still very new. In this brief analysis of covid-19 data from 01/22 to 03/09, I was able to identify and alert the number of increasing cases of deaths in countries like the United States, even before the high peak of the virus.
 
-* **[Modelo preditivo para ocorrência de diabetes:](https://github.com/luislauriano/Data_Science/tree/master/Previs%C3%A3o%20de%20Ocorr%C3%AAncia%20de%20Diabetes)**
-Com base no conjunto de dados do Instituto Nacional de Diabetes e Doenças Digestivas e Renaisé foi construido um simples modelo capaz de prever se uma paciente grávida tem ou não diabete, com base em certas medidas de diagnóstico incluídas no conjunto de dados. 
 
-* **[Manipulando e tratando dados para gerar indicadores á empresa:](https://github.com/luislauriano/Data_Science/tree/master/Gera%C3%A7%C3%A3o%20de%20Indicadores)**
-O objetivo do projeto foi fazer o tratamento e manipulação dos dados de arquivos em XLSX e CSV da empresa Bemol, para gerar um único conjunto de dados em xlsx, que irá servir como relatório e indicador para a empresa.
+* **[Predictive model for the occurrence of diabetes:](https://github.com/luislauriano/Data_Science/tree/master/Previs%C3%A3o%20de%20Ocorr%C3%AAncia%20de%20Diabetes)**
+Based on the dataset of the National Institute of Diabetes and Digestive and Kidney Diseases, a simple model was built capable of predicting whether or not a pregnant patient has diabetes, based on certain diagnostic measures included in the dataset.
 
-* **[Análise de dados do Airbnb da cidade do Rio de Janeiro:](https://github.com/luislauriano/Data_Science/tree/master/Airbnb%20Rio%20de%20Janeiro)**
-A cidade do Recife, é uma das cidades que mais atraem turistas durante o período de carnaval no Brasil. Porém, a cidade do Rio de Janeiro no ano de 2020 esteve entre as três cidades mais procuradas para curtir o período carnavalesco, sendo 2 milhões de turistas esperados para curtir a maratona carnavalesca, logo a um crescimento na rede de hotelaria. Além disso, quando vamos viajar, sempre pensamos qual seria o melhor hotel, a melhor localização e o custo beneficio. Pensando nisso, foi feita uma análise exploratória dos dados de uma das maiores empresas hoteleira da atualidade, o Airbnb, utilizando o dataset disponibilizado pela própria empresa.
+* **[Manipulating and processing data to generate indicators for the company:](https://github.com/luislauriano/Data_Science/tree/master/Gera%C3%A7%C3%A3o%20de%20Indicadores)**
+The objective of the project was to process and manipulate data from files in XLSX and CSV from the company Bemol, to generate a single set of data in xlsx, which will serve as a report and indicator for the company.
 
-* **[Machine Learning para detecção do Câncer de Mama:](https://github.com/luislauriano/Data_Science/tree/master/Detec%C3%A7%C3%A3o%20do%20C%C3%A2ncer%20de%20Mama)**
-Nesse projeto de Data Science foi construido um simples modelo de Machine Learning capaz de detectar o câncer de mama. 
+* **[Airbnb data analysis for the city of Rio de Janeiro:](https://github.com/luislauriano/Data_Science/tree/master/Airbnb%20Rio%20de%20Janeiro)**
+The city of Recife is one of the cities that most attract tourists during the carnival period in Brazil. However, the city of Rio de Janeiro in 2020 was among the three most sought after cities to enjoy the carnival period, with 2 million tourists expected to enjoy the carnival marathon, thus a growth in the hotel chain. In addition, when we travel, we always think about which would be the best hotel, the best location and the best value for money. With that in mind, an exploratory analysis was made of data from one of the largest hotel companies today, Airbnb, using the dataset provided by the company itself.
 
-*  **[Análise Exploratória de Dados com Streamlit:](https://gentle-bayou-96352.herokuapp.com/)**
-Essa aplicação foi construída com streamlit, framework do python destinado a criação de aplicação/dashboard. A aplicação faz uma análise exploratória inicial dos dados através de métodos estatísticos e visualização de dados, também aproveitei para inserir algumas explicações estatísticas na aplicação.
+* **[Machine Learning for breast cancer detection:](https://github.com/luislauriano/Data_Science/tree/master/Detec%C3%A7%C3%A3o%20do%20C%C3%A2ncer%20de%20Mama)**
+In this Machine Learning project, a simple Machine Learning model was built in order to detect the presence of breast cancer. 
+
+*  **[Exploratory Data Analysis with Streamlit:](https://gentle-bayou-96352.herokuapp.com/)**
+This application was built with streamlit, a python framework for creating an application/dashboard. The application makes an initial exploratory analysis of the data through statistical methods and data visualization, I also took the opportunity to insert some statistical explanations in the application.
 
 
 ---
