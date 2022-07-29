@@ -22,7 +22,7 @@ Após o projeto ter sido finalizado, a ideia foi também construir uma aplicaç�
 * **[Aplicação na web](https://possiveis-resultados-qatar2022.herokuapp.com/)** 
 
 <p align="center">
-  <img src="https://i.imgur.com/LRxlqzw.jpg" width = 100%>
+  <img src="https://i.imgur.com/o1YKs9I.png" width = 100%>
 </p>
 
 
