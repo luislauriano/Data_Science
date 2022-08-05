@@ -13,6 +13,10 @@
 
 Here you can find the notebooks of my projects in the area of Data Science and Machine Learning.
 
+* **[Machine learning project to predict possible outcomes of 2022 world cup matches:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)
+This is a project for the purposes of curiosity and machine learning study, with the aim of developing a model capable of predicting possible outcomes of the 2022 World Cup matches, until reaching the result of the grand winner of the championship.
+
+
 * **[League of Legends and Data Science – Predicting match results:](https://github.com/luislauriano/Data_Science/tree/master/Prevendo%20Partidas%20de%20League%20of%20Legends)**
 This Machine Learning project, defined as an end-to-end project, aimed to go from collecting match data to building a machine learning model, to predict the chances of the team that is playing on the blue side. on the side of the map win. Performing steps such as: Pre-processing and data analysis, dimensionality reduction and selection of variables, and construction of both a model completed with XGBClassifier, and construction of a logistic regression model from the results obtained from AutoML with Pycaret.
 
