@@ -13,7 +13,7 @@
 
 Here you can find the notebooks of my projects in the area of Data Science and Machine Learning.
 
-* **[Machine learning project to predict possible outcomes of 2022 world cup matches:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)
+* **[Machine learning project to predict possible outcomes of 2022 world cup matches:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
 This is a project for the purposes of curiosity and machine learning study, with the aim of developing a model capable of predicting possible outcomes of the 2022 World Cup matches, until reaching the result of the grand winner of the championship.
 
 
