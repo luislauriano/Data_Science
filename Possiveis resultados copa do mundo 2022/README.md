@@ -21,6 +21,11 @@ Após o projeto ter sido finalizado, a ideia foi também construir uma aplicaç�
 
 * **[Aplicação na web](https://possiveis-resultados-qatar2022.herokuapp.com/)** 
 
+
+<p align="center">
+  <img src="https://i.imgur.com/o1YKs9I.png" width = 100%>
+</p>
+
 ---
 
 ## Possíveis resultados finais a partir do modelo
@@ -33,8 +38,5 @@ Outra observação, o resultado de gols de uma partida pode acabar se repetindo 
 
 
 
-<p align="center">
-  <img src="https://i.imgur.com/o1YKs9I.png" width = 100%>
-</p>
 
 
