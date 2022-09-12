@@ -10,7 +10,7 @@
 * **Grupo A**
 
 <p align="center">
-  <img src="https://i.imgur.com/dw3GwjX.png" width = 100%>
+  <img src="https://i.imgur.com/dw3GwjX.png" width = 60%>
 </p>
 
 * **Grupo B**
