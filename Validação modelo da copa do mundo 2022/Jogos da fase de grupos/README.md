@@ -10,10 +10,10 @@
 * **Grupo A**
 
 
-| Command | Description |
+| Seleção | Pontos | Diff| Gols |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Holanda | 7 | 3 | 4 |
+
 
 
 | Command | Description |
