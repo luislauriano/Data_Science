@@ -11,7 +11,7 @@
 
 
 | Seleção | Pontos | Diff| Gols |
-| --- | --- |
+| --- | --- | --- | --- |
 | Holanda | 7 | 3 | 4 |
 
 
