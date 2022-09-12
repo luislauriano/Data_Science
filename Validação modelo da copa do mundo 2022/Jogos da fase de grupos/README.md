@@ -8,6 +8,7 @@
 ### possibilidade 01 
 
 | Grupo 01 |
+| --- | --- |
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
