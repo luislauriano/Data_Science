@@ -9,49 +9,36 @@
 
 * **Grupo A**
 
+<p align="center">
+  <img src="https://i.imgur.com/dw3GwjX.png" width = 100%>
+</p>
 
-| Seleção | Pontos | Diff| Gols |
-| --- | --- | --- | --- |
-| Holanda | 7 | 3 | 4 |
-
-
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+* **Grupo B**
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
+
 
 
 
 ## Com base no Teste 02 do projeto (dados de partidas internacionais da fifa de 1993 a 2022 e os dados do ranking da fifa de 1992 a 2021)
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
 
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
 
 # Resultado oficial
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
+* **Grupo A**
+
+
+| Seleção | Pontos | Diff| Gols |
+| --- | --- | --- | --- |
+| Holanda | x | x | x |
+| Equador | x | x | x |
+| Senegal | x | x | x |
+| Qatar | x | x | x |
+
+
+* **Grupo B**
+
