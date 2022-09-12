@@ -8,6 +8,8 @@
 ### possibilidade 01 
 
 * **Grupo A**
+
+
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
