@@ -24,7 +24,9 @@ Nesta planilha irei registrar os possíveis resultados dos jogos da fase de grup
 
 * **Grupo B**
 
-
+<p align="center">
+  <img src="https://i.imgur.com/3CMQgqO.png" width = 30%>
+</p>
 
 
 
