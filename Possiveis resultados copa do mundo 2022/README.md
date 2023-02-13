@@ -19,7 +19,7 @@ Após o projeto ter sido finalizado, a ideia foi também construir uma aplicaç�
 
 * **[Repositório/Código fonte da Aplicação](https://github.com/luislauriano/Aplicacao_CopaDoMundo22-projeto)** 
 
-* **[Aplicação na web](https://possiveis-resultados-qatar2022.herokuapp.com/)** 
+* **[Aplicação na web](https://luislauriano-aplicacao-copadomundo22-projeto-app-r5k28a.streamlit.app/)** 
 
 
 <p align="center">
