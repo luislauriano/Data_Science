@@ -19,7 +19,7 @@ Após a divulgação da aplicação desenvolvida com Streamlit no Linkedin, o Pr
 
 * **[Repositório/Código fonte da Aplicação](https://github.com/luislauriano/Aplicacao_NexoAnexo)** 
 
-* **[Aplicação/Dashboard do projeto](http://analise-nexoanexo.herokuapp.com/)** 
+* **[Aplicação/Dashboard do projeto](https://luislauriano-aplicacao-nexoanexo-app-tg0gwa.streamlit.app/)** 
 
 <p align="center">
   <img src="https://i.imgur.com/LRxlqzw.jpg" width = 100%>
